@@ -8,8 +8,11 @@ I design and build the things I imagine — mostly hardware, always hands-on.
 🔧 What I do
 
 PCB Design & Control Systems — designed and built custom PCBs and control systems for robotics and electronics projects
+
 CAD & Mechanical Design — use SolidWorks to design and build robots from scratch, frame to function
+
 Embedded Software — comfortable in C/C++ and embedded Linux (device drivers, Yocto, kernel fundamentals)
+
 Chip Design (currently learning) — actively studying VLSI/IC design using open-source tools (Magic, ngspice) and SPICE-level circuit analysis, working toward full nano-to-system mastery
 
 🎯 Current goal
