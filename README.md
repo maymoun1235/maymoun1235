@@ -22,6 +22,11 @@ C C++ Embedded Linux Yocto SolidWorks PCB Design Magic VLSI ngspice SPICE
 
 ⚡ Fun facts
 
-☕ Coffee in the morning, 🍵 tea at night
+☕ Coffee in the morning, 
+🍵 tea at night
+
 🐱 Cat person
-♟️ Chess, 🥊 boxing, 📖 reading, and (of course) electronics in my free time
+♟️ Chess, 
+🥊 boxing, 
+📖 reading, 
+and (of course) electronics in my free time
