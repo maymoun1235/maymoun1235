@@ -9,6 +9,7 @@ PCB Design & Control Systems — designed and built custom PCBs and control syst
 CAD & Mechanical Design — use SolidWorks to design and build robots from scratch, frame to function
 Embedded Software — comfortable in C/C++ and embedded Linux (device drivers, Yocto, kernel fundamentals)
 Chip Design (currently learning) — actively studying VLSI/IC design using open-source tools (Magic, ngspice) and SPICE-level circuit analysis, working toward full nano-to-system mastery
+
 🎯 Current goal
 
 Mastering chip design at a level where I can take a project from the transistor all the way to the PCB, the enclosure, and the firmware — end to end, on my own.
